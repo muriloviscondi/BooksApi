@@ -1,0 +1,8 @@
+#AspNet Core folders
+/.vscode
+/bin
+/obj
+/Properties
+
+#Data MongoDB
+/BooksData
